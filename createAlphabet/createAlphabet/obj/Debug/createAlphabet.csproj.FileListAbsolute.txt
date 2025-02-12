@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\createAlphabet\createAlphabet\bin\Debug\createAlphabet.exe.config
+C:\Users\User\source\repos\createAlphabet\createAlphabet\bin\Debug\createAlphabet.exe
+C:\Users\User\source\repos\createAlphabet\createAlphabet\bin\Debug\createAlphabet.pdb
+C:\Users\User\source\repos\createAlphabet\createAlphabet\obj\Debug\createAlphabet.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\createAlphabet\createAlphabet\obj\Debug\createAlphabet.Form1.resources
+C:\Users\User\source\repos\createAlphabet\createAlphabet\obj\Debug\createAlphabet.Properties.Resources.resources
+C:\Users\User\source\repos\createAlphabet\createAlphabet\obj\Debug\createAlphabet.csproj.GenerateResource.cache
+C:\Users\User\source\repos\createAlphabet\createAlphabet\obj\Debug\createAlphabet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\createAlphabet\createAlphabet\obj\Debug\createAlphabet.exe
+C:\Users\User\source\repos\createAlphabet\createAlphabet\obj\Debug\createAlphabet.pdb
