@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\handWrite\handWrite\bin\Debug\handWrite.exe.config
+C:\Users\User\source\repos\handWrite\handWrite\bin\Debug\handWrite.exe
+C:\Users\User\source\repos\handWrite\handWrite\bin\Debug\handWrite.pdb
+C:\Users\User\source\repos\handWrite\handWrite\obj\Debug\handWrite.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\handWrite\handWrite\obj\Debug\handWrite.Symbols.resources
+C:\Users\User\source\repos\handWrite\handWrite\obj\Debug\handWrite.Properties.Resources.resources
+C:\Users\User\source\repos\handWrite\handWrite\obj\Debug\handWrite.csproj.GenerateResource.cache
+C:\Users\User\source\repos\handWrite\handWrite\obj\Debug\handWrite.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\handWrite\handWrite\obj\Debug\handWrite.exe
+C:\Users\User\source\repos\handWrite\handWrite\obj\Debug\handWrite.pdb
