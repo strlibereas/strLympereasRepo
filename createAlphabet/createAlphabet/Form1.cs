@@ -98,11 +98,11 @@ namespace createAlphabet
 
                 // Find the lowest X and Y values
                 float minX = allCurves.SelectMany(c => c).Min(p => p.X);
-                float minY = allCurves.SelectMany(c => c).Min(p => p.Y);
+              //  float minY = allCurves.SelectMany(c => c).Min(p => p.Y);
 
                 // Normalize all curves by subtracting minX and minY
                 List<List<PointF>> normalizedCurves = allCurves
-                    .Select(curve => curve.Select(p => new PointF(p.X - minX, p.Y - minY)).ToList())
+                    .Select(curve => curve.Select(p => new PointF(p.X - minX, p.Y)).ToList())
                     .ToList();
 
                 // Collect the normalized points of all curves
